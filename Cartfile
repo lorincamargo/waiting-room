@@ -35,6 +35,9 @@ github "ReactiveX/RxSwift"
 github "RxSwiftCommunity/RxAlamofire"
 github "RxSwiftCommunity/NSObject-Rx"
 
+# Progress Bar
+github "yannickl/YLProgressBar"
+
 #############################################################
 # Optional
 

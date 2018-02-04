@@ -23,7 +23,7 @@ struct Appearance {
 }
 
 extension UIColor {
-    static var main: UIColor { return .red }
+    static var main: UIColor { return .white }
 }
 
 extension UIFont {
