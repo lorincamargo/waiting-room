@@ -1,4 +1,5 @@
 github "Alamofire/Alamofire" "4.6.0"
+github "DavydLiu/DLRadioButton" "1.4.11"
 github "ReactiveX/RxSwift" "4.1.1"
 github "RxSwiftCommunity/NSObject-Rx" "4.2.0"
 github "RxSwiftCommunity/RxAlamofire" "4.0.0"

@@ -38,6 +38,9 @@ github "RxSwiftCommunity/NSObject-Rx"
 # Progress Bar
 github "yannickl/YLProgressBar"
 
+# Radio button
+github "DavydLiu/DLRadioButton"
+
 #############################################################
 # Optional
 
